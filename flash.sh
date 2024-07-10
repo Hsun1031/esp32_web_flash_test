@@ -1,0 +1,1 @@
+/home/vscode/web-flash  -c esp32 --bootloader  ./.pio/build/esp32doit-devkit-v1/bootloader.bin  ./.pio/build/esp32doit-devkit-v1/firmware.elf
